@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaysm)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaysm)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaysm)](https://github.com/nikolaysm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaysm)](https://github.com/nikolaysm)
 
 <!--
 **nikolaysm/nikolaysm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
