@@ -13,10 +13,18 @@
 <code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="20" alt="nginx" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"></code>
 
-| <a href="https://github.com/nikolaysm"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaysm&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Nikolay's github stats" /></a> | <a href="https://github.com/nikolaysm"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaysm&layout=compact&theme=blue-green&hide_border=true" /></a>
 
-<br />
-<br />
+## GitHub Analytics
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=nikolaysm&theme=tokyo-night&hide_border=true)
+![](https://streak-stats.demolab.com/?user=nikolaysm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nikolaysm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+<br/>
 
 <a href="https://stackoverflow.com/users/6143954/nksm">
   <img align="right" alt="Nikolay Sm. | Stack Overflow" width="20px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico" />
