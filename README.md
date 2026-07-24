@@ -1,8 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Nikolay%20Smirnov&fontSize=38&fontAlignY=35&desc=Full%20Stack%20%2F%20Backend%20Engineer&descAlignY=55&descAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Nikolay%20Sm.&fontSize=38&fontAlignY=35&desc=Full%20Stack%20%2F%20Backend%20Engineer&descAlignY=55&descAlign=50&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+API+development;Python+%2F+Django+%2F+FastAPI;React+%2F+Next.js+%2F+TypeScript;Search%2C+Auth+%26+Infra+with+Elasticsearch%2C+Keycloak%2C+Docker)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=nikolaysm&style=for-the-badge&color=blueviolet&label=Profile+views)
+![GitHub followers](https://img.shields.io/github/followers/nikolaysm?style=for-the-badge&color=blue&label=Followers)
+![GitHub stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=yellow&label=Stars&query=sum(%5B%5D.stargazers_count)&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnikolaysm%2Frepos%3Fper_page%3D100)
 
 </div>
 
@@ -10,32 +14,44 @@
 
 - 🔭 Building backend systems and APIs with **Python** (Django, FastAPI) and **Node.js**
 - 🎨 Pairing them with **React** / **Next.js** / **TypeScript** frontends
-- 🔍 Working with **Elasticsearch** for search, **Keycloak** for identity/auth
-- 🐳 Shipping with **Docker** and **Nginx**
+- 🔍 Working with **Elasticsearch** for search, and **IAM** systems for authentication & authorization
+- 🐳 Shipping with **Docker** / **Kubernetes**, reverse-proxied via **Nginx**, **Traefik**, **Caddy**, or **Apache**
+- 🔐 Hardening Kubernetes clusters — RBAC, NetworkPolicies, Pod Security Standards, secrets encryption at rest, and encrypted backups
+- 🖥️ Running and administering **Ubuntu/Linux** servers, including mail delivery with **Postfix** + **OpenDKIM**
 - 💬 Ask me about anything [here](https://github.com/nikolaysm/nikolaysm/issues)
 
 ### Tech Stack
 
-**Backend & APIs**
+**Languages & Frameworks**
 
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
-<code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
-<code><img height="20" alt="fastapi" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="keycloak" src="https://avatars.githubusercontent.com/u/4921466"></code>
-<code><img height="20" alt="elasticsearch" src="https://raw.githubusercontent.com/github/explore/main/topics/elasticsearch/elasticsearch.png"></code>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 **Frontend & UI**
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![AMP](https://img.shields.io/badge/AMP-005AF0?style=for-the-badge&logo=amp&logoColor=white)
 
 **Infra & DevOps**
 
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="20" alt="nginx" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"></code>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postfix](https://img.shields.io/badge/Postfix-4B4B4B?style=for-the-badge)
+![OpenDKIM](https://img.shields.io/badge/OpenDKIM-4B4B4B?style=for-the-badge)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
 ### GitHub Analytics
 
