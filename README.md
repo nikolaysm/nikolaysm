@@ -78,5 +78,5 @@
 <br/>
 
 <a href="https://stackoverflow.com/users/6143954/nksm">
-  <img align="right" alt="Nikolay Sm. | Stack Overflow" width="20px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico" />
+  <img alt="Nikolay Sm. | Stack Overflow" src="https://stackoverflow.com/users/flair/6143954.png?theme=clean" />
 </a>
