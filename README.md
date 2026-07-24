@@ -20,6 +20,12 @@
 - 🖥️ Running and administering **Ubuntu/Linux** servers, including mail delivery with **Postfix** + **OpenDKIM**
 - 💬 Ask me about anything [here](https://github.com/nikolaysm/nikolaysm/issues)
 
+### Elsewhere
+
+<a href="https://stackoverflow.com/users/6143954/nksm">
+  <img alt="Nikolay Sm. | Stack Overflow" src="https://stackoverflow.com/users/flair/6143954.png?theme=clean" />
+</a>
+
 ### Tech Stack
 
 **Languages & Frameworks**
@@ -74,9 +80,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikolaysm/nikolaysm/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/nikolaysm/nikolaysm/output/github-snake.svg" />
 </picture>
-
-<br/>
-
-<a href="https://stackoverflow.com/users/6143954/nksm">
-  <img alt="Nikolay Sm. | Stack Overflow" src="https://stackoverflow.com/users/flair/6143954.png?theme=clean" />
-</a>
