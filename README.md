@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=nikolaysm&style=for-the-badge&color=blueviolet&label=Profile+views)
 ![GitHub followers](https://img.shields.io/github/followers/nikolaysm?style=for-the-badge&color=blue&label=Followers)
-![GitHub stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=yellow&label=Stars&query=sum(%5B%5D.stargazers_count)&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnikolaysm%2Frepos%3Fper_page%3D100)
+![GitHub stars](https://img.shields.io/github/stars/nikolaysm?style=for-the-badge&color=yellow&label=Stars)
 
 </div>
 
