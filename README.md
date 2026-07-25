@@ -18,6 +18,7 @@
 - 🐳 Shipping with **Docker** / **Kubernetes**, reverse-proxied via **Nginx**, **Traefik**, **Caddy**, or **Apache**
 - 🔐 Hardening Kubernetes clusters — RBAC, NetworkPolicies, Pod Security Standards, secrets encryption at rest, and encrypted backups
 - 🖥️ Running and administering **Ubuntu/Linux** servers, including mail delivery with **Postfix** + **OpenDKIM**
+- ⚙️ Automating builds, tests, and deploys with **CI/CD** pipelines
 - 💬 Ask me about anything [here](https://github.com/nikolaysm/nikolaysm/issues)
 
 ### Elsewhere
@@ -62,6 +63,7 @@
 ![Postfix](https://img.shields.io/badge/Postfix-4B4B4B?style=for-the-badge)
 ![OpenDKIM](https://img.shields.io/badge/OpenDKIM-4B4B4B?style=for-the-badge)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge)
 
 ### GitHub Analytics
 
