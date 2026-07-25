@@ -73,7 +73,7 @@
 ![](https://streak-stats.demolab.com/?user=nikolaysm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nikolaysm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nikolaysm&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](https://trophy.ryglcloud.net/?username=nikolaysm&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
