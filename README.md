@@ -69,11 +69,13 @@
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=nikolaysm&theme=tokyo-night&hide_border=true)
-![](https://streak-stats.demolab.com/?user=nikolaysm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nikolaysm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=nikolaysm&theme=tokyo-night&hide_border=true)
 
-![Trophies](https://trophy.ryglcloud.net/?username=nikolaysm&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://streak-stats.demolab.com/?user=nikolaysm&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=8&amp;card_width=495" alt="GitHub streak statistics" width="495" />
+<br />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nikolaysm&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=8&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact&amp;card_width=495" alt="Most used languages" width="495" />
+<br />
+<img src="https://trophy.ryglcloud.net/?username=nikolaysm&amp;theme=tokyonight&amp;no-frame=true&amp;row=2&amp;column=3&amp;margin-w=10&amp;margin-h=10" alt="GitHub profile trophies" width="495" />
 
 </div>
 
