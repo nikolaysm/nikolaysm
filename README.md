@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Nikolay%20Sm.&fontSize=38&fontAlignY=35&desc=Full%20Stack%20%2F%20Backend%20Engineer&descAlignY=55&descAlign=50&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+API+development;Python+%2F+Django+%2F+FastAPI;React+%2F+Next.js+%2F+TypeScript;Search%2C+Auth+%26+Infra+with+Elasticsearch%2C+Keycloak%2C+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+API+development;Python+%2F+Django+%2F+FastAPI;React+%2F+Next.js+%2F+TypeScript;Search%2C+Auth+%26+Infra+with+Elasticsearch%2C+Keycloak%2C+Docker)](https://github.com/nikolaysm)
 
 ![Profile views](https://komarev.com/ghpvc/?username=nikolaysm&style=for-the-badge&color=blueviolet&label=Profile+views)
 ![GitHub followers](https://img.shields.io/github/followers/nikolaysm?style=for-the-badge&color=blue&label=Followers)
